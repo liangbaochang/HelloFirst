@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("");
         System.out.println("test1的分支");
+        System.out.println("test2分支的代码");
     }
 }
