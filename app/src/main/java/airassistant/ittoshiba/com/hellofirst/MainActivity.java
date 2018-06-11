@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("");
         System.out.println("test1的分支");
         System.out.println("test2分支的代码");
-
+        System.out.println("把两个分支进行合并");
     }
 }
