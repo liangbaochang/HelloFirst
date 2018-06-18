@@ -45,5 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("master 分支");
 
+        System.out.println("dev 分支");
+
     }
 }
