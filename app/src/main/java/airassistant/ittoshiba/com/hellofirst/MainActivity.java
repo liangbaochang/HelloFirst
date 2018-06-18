@@ -36,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("在本地修改代码制造冲突");
 
         System.out.println("在 远端 中修改代码制造冲突");
+        
+        System.out.println("在 远端 中修改代码在本地直接拉去看看能不能覆盖本地代码");
 
     }
 }
