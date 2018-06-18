@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("把两个分支进行合并");
         
         System.out.println("测试分支");
+        System.out.println("本地新添加的数据");
     }
 }
