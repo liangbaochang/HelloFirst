@@ -24,12 +24,9 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("第四次测试代码");
         
         System.out.println("服务端修改了代码");
-<<<<<<< HEAD
 
         System.out.println("工作区修改与服务器冲突");
-=======
         
         System.out.println("创建冲突的情形");
->>>>>>> ff235b55b6c18eb253af887a218cc14164622b7e
     }
 }
