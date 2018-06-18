@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         
         System.out.println("测试分支");
         System.out.println("本地新添加的数据");
+
+        System.out.println("第二个测试代码");
     }
 }
