@@ -28,5 +28,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("工作区修改与服务器冲突");
         
         System.out.println("创建冲突的情形");
+
+        System.out.println("在 studio 中修改代码");
     }
 }
