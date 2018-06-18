@@ -20,5 +20,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("第二个测试代码");
         
         System.out.println("第三个测试代码");
+
+        System.out.println("第四次测试代码");
     }
 }
